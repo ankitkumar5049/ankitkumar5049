@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitkumar5049
 - 👀 I’m interested in Android Develoment
-- 🌱 I’m currently learning Android Dev and Firebase
+- 🌱 I’m currently learning SpringBoot and Other technologies.
 - 💞️ I’m looking for an internship
 - 📫 You can reach me on ankitkumar5049@gmail.com
 
